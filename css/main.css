@@ -3415,4 +3415,11 @@ html.no-csstransitions .home-content__main {
   }
 }
 
+.regan-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /*# sourceMappingURL=main.css.map */
